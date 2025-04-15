@@ -6,3 +6,8 @@ Go to https://start.spring.io/
 Add the depencices requried to the project
 Generate the project and import in the file to STS
 #Postman is required
+#Database mysql/postgresql
+# Technologies Used
+Java
+Spring boot
+Mysql
